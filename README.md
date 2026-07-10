@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **mat.dusek@gmail.com**
 
-- 📄 Certifications ECDL, (CCNA1 - in progress)
-
 - ⚡ Fun fact **My nickname is Matesoidicek**
 
 <h3 align="left">Connect with me:</h3>

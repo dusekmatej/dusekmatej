@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mates Dusek</h1>
 <h3 align="center">I'm student & backend developer</h3>
 
-- 🔭 I’m currently working on **c++ Game Engine**
+- 🔭 I’m currently working on **Game Engine**
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **c++** and mastering C#
 
 - 📫 How to reach me **mat.dusek@gmail.com**
 
-- ⚡ Fun fact **My nickname is Matesoidicek**
+- ⚡ Certifications: CCNA1, Basic ECDL certifications
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
